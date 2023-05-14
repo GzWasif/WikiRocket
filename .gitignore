@@ -7,6 +7,8 @@
 
 # testing
 /coverage
+/ssh
+/ssh.pub
 
 # next.js
 /.next/
